@@ -1,1 +1,1 @@
-# background-generator.io
+# background-generator
